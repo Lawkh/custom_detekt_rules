@@ -1,6 +1,6 @@
 # detekt custom rule template
 
-This repository is a template. You can use it to generate your own repository to write and share your custom rules.
+This repository is copied from a template. Adds rules like fun interfaces.
 
 ## How to use it
 
